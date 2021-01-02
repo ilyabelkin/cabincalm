@@ -6,7 +6,9 @@
 
 
 ## Background
-Cabin Calm attempts to solve the following problems:
+![Mökki](https://upload.wikimedia.org/wikipedia/commons/9/98/Gamla_Hinkab%C3%B6le_februari_2008.png)
+
+**Cabin Calm** attempts to solve the following problems:
 * Cabins are usually seasonal and not being there 365 days a year means missing a lot of interesting moments. What if a deer decides to visit? Or a less wanted visitor like a bear?
 * Remote surveillance comes with a high cost, and not just the equipment. It's often not economical to have unlimited Internet connection in rural and remote areas to receive images or view live video feed, and/or use Cloud-based AI
 * There might be natural or artificial disasters that would require an emergency visit to complete repairs
@@ -47,4 +49,8 @@ Cabin Calm attempts to solve the following problems:
 
 ## Licence
 The goal is to use a permissive licence, but it will depend on the technologies used. TensorFlow, for example, is licensed under Apache: https://github.com/tensorflow/tensorflow/blob/master/LICENSE
+
+## Acknowledgments
+
+* The following picture is used without changes: [Gamla Hinkaböle Pyttis restaureringsarbete 2008 (Pyhtää) by Stahjo](https://commons.wikimedia.org/wiki/File:Gamla_Hinkab%C3%B6le_februari_2008.png#filelinks) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
