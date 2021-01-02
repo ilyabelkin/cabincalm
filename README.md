@@ -10,7 +10,7 @@
 
 **Cabin Calm** attempts to solve the following problems:
 * Cabins are usually seasonal and not being there 365 days a year means missing a lot of interesting moments. What if a deer decides to visit? Or a less wanted visitor like a bear?
-* Remote surveillance comes with a high cost, and not just the equipment. It's often not economical to have unlimited Internet connection in rural and remote areas to receive images or view live video feed, and/or use Cloud-based AI
+* Remote surveillance comes with a high cost, and not just for the equipment. It's often not economical to have unlimited Internet connection in rural and remote areas to receive images or view live video feed, and/or use Cloud-based AI. That's where Edge AI comes in
 * There might be natural or artificial disasters that would require an emergency visit to complete repairs
 * Owners may want to receive alerts about very specific events and visitors, and reduce the number of nuisance alarms
 * Make trespassers aware they are being monitored, and even pretend the owner is at home
