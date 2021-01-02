@@ -2,7 +2,7 @@
 **Cabin Calm - AI at the edge of the forest**
 
 ## Summary
-"Cabin calm", the opposite of "cabin fever" is a final [Building AI course](https://buildingai.elementsofai.com/) project. In keeping with the spirit of the course, imagine you are one of the lucky mökki (a Finnish cabin) owners and would like to enjoy magical moments of being there even if you cannot visit in person. All without breaking the bank. And having a peace of mind about some undesired events and visitors.
+"Cabin calm", the opposite of "cabin fever" is a final Building AI course project. In the spirit of the course, imagine you are one of the lucky mökki (a Finnish cabin) owners and like to enjoy magical moments of being there even if you cannot visit.
 
 
 ## Background
@@ -52,5 +52,6 @@ The goal is to use a permissive licence, but it will depend on the technologies 
 
 ## Acknowledgments
 
+* [Building AI course](https://buildingai.elementsofai.com/)
 * The following picture is used without changes: [Gamla Hinkaböle Pyttis restaureringsarbete 2008 (Pyhtää) by Stahjo](https://commons.wikimedia.org/wiki/File:Gamla_Hinkab%C3%B6le_februari_2008.png#filelinks) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
